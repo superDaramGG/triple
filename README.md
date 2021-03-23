@@ -49,6 +49,7 @@ index.js
 
 참고사항
 
+```
 이모션 
 -https://emotion.sh/docs/introduction
 
@@ -57,6 +58,8 @@ index.js
 
 숫자 카운팅
 -https://namhandong.tistory.com/93
+```
+
 
 감사합니다.
 
